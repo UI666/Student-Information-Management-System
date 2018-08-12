@@ -1,0 +1,6 @@
+D:\P for PRO\Visual Studio all\Visual Studio 2013\Projects\Studentinfo\Studentinfo\bin\Debug\Studentinfo.exe.config
+D:\P for PRO\Visual Studio all\Visual Studio 2013\Projects\Studentinfo\Studentinfo\bin\Debug\Studentinfo.exe
+D:\P for PRO\Visual Studio all\Visual Studio 2013\Projects\Studentinfo\Studentinfo\bin\Debug\Studentinfo.pdb
+D:\P for PRO\Visual Studio all\Visual Studio 2013\Projects\Studentinfo\Studentinfo\obj\Debug\Studentinfo.exe
+D:\P for PRO\Visual Studio all\Visual Studio 2013\Projects\Studentinfo\Studentinfo\obj\Debug\Studentinfo.pdb
+D:\P for PRO\Visual Studio all\Visual Studio 2013\Projects\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csprojResolveAssemblyReference.cache
